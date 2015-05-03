@@ -1,5 +1,7 @@
 VARIABLES:
 
+--------------------------------------------------------------------------------------    
+
 	var trainWhistles = 3
 
   trainWhistles
@@ -15,6 +17,8 @@ VARIABLES:
     var goodName
     var mortalKombat2
 
+--------------------------------------------------------------------------------------    
+
   Changing Variable Contents:
 
     var trainWhistles = 3
@@ -28,6 +32,8 @@ VARIABLES:
     trainWhistles = trainWhistles * 2
 
     trainWhistles *= 2
+
+--------------------------------------------------------------------------------------    
 
   Using Variables:
 
@@ -47,6 +53,8 @@ VARIABLES:
 
     trainWhistles--
     trainWhistles++
+
+--------------------------------------------------------------------------------------    
 
   Strings as Variables
 
@@ -71,6 +79,8 @@ VARIABLES:
     sentence.charAt(31)
     sentence.charAt(42)
 
+--------------------------------------------------------------------------------------    
+
   Variables help organize DATA:
 
     var trainsOperational = 8
@@ -80,7 +90,7 @@ VARIABLES:
     trainsOperational + " out of " + totalTrains + operatingStatus
       => "8 out of 12 trains are operational today."
 
-    
+
 
 
 

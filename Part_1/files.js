@@ -1,5 +1,7 @@
 FILES:
 
+--------------------------------------------------------------------------------------    
+
 	"Train #" + 1 + " is running."
     => "Train #1 is running."
 
@@ -8,6 +10,8 @@ FILES:
   "Train #" + 3 + " is running."
 
 Running Javascript in an HTML FILE
+
+--------------------------------------------------------------------------------------    
 
 <html>
     <header>
@@ -18,7 +22,7 @@ Running Javascript in an HTML FILE
       ...
   </body>
 </html>
-
+--------------------------------------------------------------------------------------    
 <html>
     <header>
       <script src="scripts/trains.js"></script>
@@ -28,7 +32,7 @@ Running Javascript in an HTML FILE
       ...
   </body>
 </html>
-
+--------------------------------------------------------------------------------------    
 <html>
     <header>
       <script src="../scripts/trains.js"></script>
@@ -39,6 +43,7 @@ Running Javascript in an HTML FILE
   </body>
 </html>
 
+--------------------------------------------------------------------------------------    
 
 Enter the semicolons!
 
